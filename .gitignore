@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Datasets and raw archive files
+DATA/
+*.csv
+*.zip
+*.gz
+*.tar
+
+# Course materials / Slides
+TaiLieu/
+
+# Microsoft Office temporary lock files
+~$*
+*.tmp
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+.DS_Store
